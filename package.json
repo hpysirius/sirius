@@ -5,6 +5,7 @@
     "packages/*"
   ],
   "scripts": {
+    "bootstrap": "lerna bootstrap",
     "start": "dumi dev",
     "build": "lerna exec tsc"
   },
