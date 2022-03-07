@@ -4,7 +4,12 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "start": "dumi dev",
+    "build": "lerna exec tsc"
+  },
   "devDependencies": {
+    "dumi": "^1.1.39",
     "lerna": "^4.0.0"
   }
 }

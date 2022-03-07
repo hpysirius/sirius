@@ -7,5 +7,8 @@
 ```
 const icon = require('@hpys/icon');
 
-// TODO: DEMONSTRATE API
+
 ```
+
+### 代码演示
+<code src="./src/demo/index.tsx" />

@@ -1,0 +1,51 @@
+{
+  "menus": {
+    "en-US": {
+      "*": [
+        {
+          "path": "/",
+          "title": "hpys - 组件库",
+          "meta": {}
+        },
+        {
+          "title": "Hpys",
+          "path": "/hpys",
+          "meta": {},
+          "children": [
+            {
+              "path": "/hpys",
+              "title": "hpys",
+              "meta": {}
+            }
+          ]
+        },
+        {
+          "title": "Icon",
+          "path": "/icon",
+          "meta": {},
+          "children": [
+            {
+              "path": "/icon",
+              "title": "@hpys/icon",
+              "meta": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "locales": [
+    {
+      "name": "en-US",
+      "label": "English"
+    }
+  ],
+  "navs": {},
+  "title": "hpys",
+  "mode": "doc",
+  "repository": {
+    "url": "",
+    "branch": "master"
+  },
+  "theme": {}
+}
