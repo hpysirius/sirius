@@ -2,6 +2,6 @@
 
 const icon = require('..');
 
-describe('@hpy/icon', () => {
+describe('@hpys/icon', () => {
     it('needs tests');
 });

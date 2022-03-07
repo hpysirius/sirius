@@ -1,11 +1,11 @@
-# `@hpy/icon`
+# `@hpys/icon`
 
 > TODO: description
 
 ## Usage
 
 ```
-const icon = require('@hpy/icon');
+const icon = require('@hpys/icon');
 
 // TODO: DEMONSTRATE API
 ```

@@ -1,11 +1,11 @@
-# `hpy`
+# `hpys`
 
 > TODO: description
 
 ## Usage
 
 ```
-const hpy = require('hpy');
+const hpys = require('hpys');
 
 // TODO: DEMONSTRATE API
 ```
